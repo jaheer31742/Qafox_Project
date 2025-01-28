@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Get Report Connection Succesfull]]>
+    </line>
+    <line>
+      <![CDATA[Get TestRunner Connection Succesfull]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launch Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to the application Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Maximize The browser Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on My account headerlink succesfull]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the Register header link succesful]]>
+    </line>
+    <line>
+      <![CDATA[clicked on My account headerlink succesfull]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the Login header link succesful]]>
+    </line>
+    <line>
+      <![CDATA[Login Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[iMac]]>
+    </line>
+    <line>
+      <![CDATA[Apple]]>
+    </line>
+    <line>
+      <![CDATA[Product Code:Product 14]]>
+    </line>
+    <line>
+      <![CDATA[Availability:Out Of Stock]]>
+    </line>
+    <line>
+      <![CDATA[$122.00]]>
+    </line>
+    <line>
+      <![CDATA[Ex Tax:$100.00]]>
+    </line>
+    <line>
+      <![CDATA[QTY is entered sucessfully]]>
+    </line>
+    <line>
+      <![CDATA[add cart button click sucessfully ]]>
+    </line>
+    <line>
+      <![CDATA[Description
+Reviews (0)
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space.
+iMac
+Brand: Apple
+Product Code:Product 14
+Availability:Out Of Stock
+$122.00
+Ex Tax:$100.00
+Qty
+
+Add to Cart
+0 reviews / Write a review
+Related Products
+Apple Cinema 30"
+The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed speci..
+$110.00 $122.00
+Ex Tax:$90.00
+ADD TO CART]]>
+    </line>
+    <line>
+      <![CDATA[Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space.]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart button click sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[view cart button click sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[check out button click sucessfull]]>
+    </line>
+    <line>
+      <![CDATA[Products marked with *** are not available in the desired quantity or not in stock!
+×]]>
+    </line>
+    <line>
+      <![CDATA[Browser Terminated Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser Launch Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Navigate to the application Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Maximize The browser Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on My account headerlink succesfull]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the Register header link succesful]]>
+    </line>
+    <line>
+      <![CDATA[clicked on My account headerlink succesfull]]>
+    </line>
+    <line>
+      <![CDATA[clicked on the Login header link succesful]]>
+    </line>
+    <line>
+      <![CDATA[Login Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Desktops_Mac_Product Added]]>
+    </line>
+    <line>
+      <![CDATA[Browser Terminated Succesfully]]>
+    </line>
+    <line>
+      <![CDATA[Terminate TestRunner connection  Succesfull]]>
+    </line>
+    <line>
+      <![CDATA[Terminate Report Succesfull]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-01-28T19:39:45 IST" name="Suite" finished-at="2025-01-28T19:41:04 IST" duration-ms="78923">
+    <groups>
+    </groups>
+    <test started-at="2025-01-28T19:39:45 IST" name="Test" finished-at="2025-01-28T19:41:04 IST" duration-ms="78923">
+      <class name="Qrg.Qafox_Project.Desktop.Desktop_Pc_Test">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:40:45 IST" name="browserSetUp" finished-at="2025-01-28T19:40:56 IST" duration-ms="11174" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launch Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to the application Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[Maximize The browser Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[clicked on My account headerlink succesfull]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the Register header link succesful]]>
+            </line>
+            <line>
+              <![CDATA[clicked on My account headerlink succesfull]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the Login header link succesful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:40:56 IST" name="login" finished-at="2025-01-28T19:40:58 IST" duration-ms="1396" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Succesfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addProduct_Desktop_Pc()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:40:58 IST" name="addProduct_Desktop_Pc" finished-at="2025-01-28T19:41:03 IST" duration-ms="4837" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Desktops_Mac_Product Added]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct_Desktop_Pc -->
+        <test-method is-config="true" signature="teminate()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:41:03 IST" name="teminate" finished-at="2025-01-28T19:41:04 IST" duration-ms="1448" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Terminated Succesfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- teminate -->
+      </class> <!-- Qrg.Qafox_Project.Desktop.Desktop_Pc_Test -->
+      <class name="Qrg.Qafox_Project.Desktop.Desktop_Mac_Test">
+        <test-method is-config="true" signature="getReportConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:45 IST" name="getReportConnection" finished-at="2025-01-28T19:39:45 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Get Report Connection Succesfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getReportConnection -->
+        <test-method is-config="true" signature="getTestRunnerConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:45 IST" name="getTestRunnerConnection" finished-at="2025-01-28T19:39:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Get TestRunner Connection Succesfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getTestRunnerConnection -->
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:45 IST" name="browserSetUp" finished-at="2025-01-28T19:39:57 IST" duration-ms="11806" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Launch Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[Navigate to the application Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[Maximize The browser Succesfully]]>
+            </line>
+            <line>
+              <![CDATA[clicked on My account headerlink succesfull]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the Register header link succesful]]>
+            </line>
+            <line>
+              <![CDATA[clicked on My account headerlink succesfull]]>
+            </line>
+            <line>
+              <![CDATA[clicked on the Login header link succesful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:57 IST" name="login" finished-at="2025-01-28T19:39:58 IST" duration-ms="1408" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Succesfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addProduct_Desktop_Mac()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:58 IST" name="addProduct_Desktop_Mac" finished-at="2025-01-28T19:40:44 IST" duration-ms="45234" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[iMac]]>
+            </line>
+            <line>
+              <![CDATA[Apple]]>
+            </line>
+            <line>
+              <![CDATA[Product Code:Product 14]]>
+            </line>
+            <line>
+              <![CDATA[Availability:Out Of Stock]]>
+            </line>
+            <line>
+              <![CDATA[$122.00]]>
+            </line>
+            <line>
+              <![CDATA[Ex Tax:$100.00]]>
+            </line>
+            <line>
+              <![CDATA[QTY is entered sucessfully]]>
+            </line>
+            <line>
+              <![CDATA[add cart button click sucessfully ]]>
+            </line>
+            <line>
+              <![CDATA[Description
+Reviews (0)
+Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space.
+iMac
+Brand: Apple
+Product Code:Product 14
+Availability:Out Of Stock
+$122.00
+Ex Tax:$100.00
+Qty
+
+Add to Cart
+0 reviews / Write a review
+Related Products
+Apple Cinema 30"
+The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed speci..
+$110.00 $122.00
+Ex Tax:$90.00
+ADD TO CART]]>
+            </line>
+            <line>
+              <![CDATA[Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this with Mac OS X Leopard and iLife ´08, and it´s more all-in-one than ever. iMac packs amazing performance into a stunningly slim space.]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart button click sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[view cart button click sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[check out button click sucessfull]]>
+            </line>
+            <line>
+              <![CDATA[Products marked with *** are not available in the desired quantity or not in stock!
+×]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addProduct_Desktop_Mac -->
+        <test-method is-config="true" signature="teminate()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:40:44 IST" name="teminate" finished-at="2025-01-28T19:40:45 IST" duration-ms="1522" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Terminated Succesfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- teminate -->
+        <test-method is-config="true" signature="terminateTestRunnerConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:41:04 IST" name="terminateTestRunnerConnection" finished-at="2025-01-28T19:41:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Terminate TestRunner connection  Succesfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- terminateTestRunnerConnection -->
+        <test-method is-config="true" signature="terminateReportConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:41:04 IST" name="terminateReportConnection" finished-at="2025-01-28T19:41:05 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Terminate Report Succesfull]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- terminateReportConnection -->
+      </class> <!-- Qrg.Qafox_Project.Desktop.Desktop_Mac_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
