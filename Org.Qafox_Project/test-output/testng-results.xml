@@ -132,12 +132,12 @@ ADD TO CART]]>
       <![CDATA[Terminate Report Succesfull]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-01-28T19:39:45 IST" name="Suite" finished-at="2025-01-28T19:41:04 IST" duration-ms="78923">
+  <suite started-at="2025-01-28T20:41:58 IST" name="Suite" finished-at="2025-01-28T20:43:44 IST" duration-ms="106104">
     <groups>
     </groups>
-    <test started-at="2025-01-28T19:39:45 IST" name="Test" finished-at="2025-01-28T19:41:04 IST" duration-ms="78923">
+    <test started-at="2025-01-28T20:41:58 IST" name="Test" finished-at="2025-01-28T20:43:44 IST" duration-ms="106104">
       <class name="Qrg.Qafox_Project.Desktop.Desktop_Pc_Test">
-        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:40:45 IST" name="browserSetUp" finished-at="2025-01-28T19:40:56 IST" duration-ms="11174" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@2a54a73f]" started-at="2025-01-28T20:43:20 IST" name="browserSetUp" finished-at="2025-01-28T20:43:37 IST" duration-ms="16254" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launch Succesfully]]>
@@ -162,21 +162,21 @@ ADD TO CART]]>
             </line>
           </reporter-output>
         </test-method> <!-- browserSetUp -->
-        <test-method is-config="true" signature="login()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:40:56 IST" name="login" finished-at="2025-01-28T19:40:58 IST" duration-ms="1396" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@2a54a73f]" started-at="2025-01-28T20:43:37 IST" name="login" finished-at="2025-01-28T20:43:38 IST" duration-ms="1410" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login Succesfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="addProduct_Desktop_Pc()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:40:58 IST" name="addProduct_Desktop_Pc" finished-at="2025-01-28T19:41:03 IST" duration-ms="4837" status="PASS">
+        <test-method signature="addProduct_Desktop_Pc()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@2a54a73f]" started-at="2025-01-28T20:43:38 IST" name="addProduct_Desktop_Pc" finished-at="2025-01-28T20:43:43 IST" duration-ms="5089" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Desktops_Mac_Product Added]]>
             </line>
           </reporter-output>
         </test-method> <!-- addProduct_Desktop_Pc -->
-        <test-method is-config="true" signature="teminate()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@3c73951]" started-at="2025-01-28T19:41:03 IST" name="teminate" finished-at="2025-01-28T19:41:04 IST" duration-ms="1448" status="PASS">
+        <test-method is-config="true" signature="teminate()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Pc_Test@2a54a73f]" started-at="2025-01-28T20:43:43 IST" name="teminate" finished-at="2025-01-28T20:43:44 IST" duration-ms="636" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Terminated Succesfully]]>
@@ -185,21 +185,21 @@ ADD TO CART]]>
         </test-method> <!-- teminate -->
       </class> <!-- Qrg.Qafox_Project.Desktop.Desktop_Pc_Test -->
       <class name="Qrg.Qafox_Project.Desktop.Desktop_Mac_Test">
-        <test-method is-config="true" signature="getReportConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:45 IST" name="getReportConnection" finished-at="2025-01-28T19:39:45 IST" duration-ms="260" status="PASS">
+        <test-method is-config="true" signature="getReportConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:41:57 IST" name="getReportConnection" finished-at="2025-01-28T20:41:58 IST" duration-ms="320" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Get Report Connection Succesfull]]>
             </line>
           </reporter-output>
         </test-method> <!-- getReportConnection -->
-        <test-method is-config="true" signature="getTestRunnerConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:45 IST" name="getTestRunnerConnection" finished-at="2025-01-28T19:39:45 IST" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="getTestRunnerConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:41:58 IST" name="getTestRunnerConnection" finished-at="2025-01-28T20:41:58 IST" duration-ms="2" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Get TestRunner Connection Succesfull]]>
             </line>
           </reporter-output>
         </test-method> <!-- getTestRunnerConnection -->
-        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:45 IST" name="browserSetUp" finished-at="2025-01-28T19:39:57 IST" duration-ms="11806" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:41:58 IST" name="browserSetUp" finished-at="2025-01-28T20:42:33 IST" duration-ms="34881" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Launch Succesfully]]>
@@ -224,14 +224,14 @@ ADD TO CART]]>
             </line>
           </reporter-output>
         </test-method> <!-- browserSetUp -->
-        <test-method is-config="true" signature="login()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:57 IST" name="login" finished-at="2025-01-28T19:39:58 IST" duration-ms="1408" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:42:33 IST" name="login" finished-at="2025-01-28T20:42:34 IST" duration-ms="1814" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login Succesfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="addProduct_Desktop_Mac()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:39:58 IST" name="addProduct_Desktop_Mac" finished-at="2025-01-28T19:40:44 IST" duration-ms="45234" status="PASS">
+        <test-method signature="addProduct_Desktop_Mac()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:42:34 IST" name="addProduct_Desktop_Mac" finished-at="2025-01-28T20:43:20 IST" duration-ms="45105" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[iMac]]>
@@ -296,21 +296,21 @@ ADD TO CART]]>
             </line>
           </reporter-output>
         </test-method> <!-- addProduct_Desktop_Mac -->
-        <test-method is-config="true" signature="teminate()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:40:44 IST" name="teminate" finished-at="2025-01-28T19:40:45 IST" duration-ms="1522" status="PASS">
+        <test-method is-config="true" signature="teminate()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:43:20 IST" name="teminate" finished-at="2025-01-28T20:43:20 IST" duration-ms="708" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser Terminated Succesfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- teminate -->
-        <test-method is-config="true" signature="terminateTestRunnerConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:41:04 IST" name="terminateTestRunnerConnection" finished-at="2025-01-28T19:41:04 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="terminateTestRunnerConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:43:44 IST" name="terminateTestRunnerConnection" finished-at="2025-01-28T20:43:44 IST" duration-ms="1" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Terminate TestRunner connection  Succesfull]]>
             </line>
           </reporter-output>
         </test-method> <!-- terminateTestRunnerConnection -->
-        <test-method is-config="true" signature="terminateReportConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@ea6147e]" started-at="2025-01-28T19:41:04 IST" name="terminateReportConnection" finished-at="2025-01-28T19:41:05 IST" duration-ms="493" status="PASS">
+        <test-method is-config="true" signature="terminateReportConnection()[pri:0, instance:Qrg.Qafox_Project.Desktop.Desktop_Mac_Test@6d4e5011]" started-at="2025-01-28T20:43:44 IST" name="terminateReportConnection" finished-at="2025-01-28T20:43:45 IST" duration-ms="877" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Terminate Report Succesfull]]>

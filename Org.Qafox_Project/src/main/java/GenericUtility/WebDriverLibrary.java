@@ -1,6 +1,7 @@
 package GenericUtility;
 
 import java.time.Duration;
+import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
@@ -12,6 +13,8 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+
+import io.github.bonigarcia.wdm.WebDriverManager;
 
 /**
  * This Class Contains reusable Method to Perform driver related operations
@@ -33,10 +36,10 @@ public class WebDriverLibrary {
 	 */
 	public WebDriver launchBrowser(String browser) {
 		switch (browser) {
-		case "chrome":
+		case "chrome":WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 			break;
-		case "edge":
+		case "edge":WebDriverManager.edgedriver().setup();
 			driver = new EdgeDriver();
 			break;
 		default:
@@ -87,7 +90,7 @@ public class WebDriverLibrary {
 	 * 
 	 */
 	public void waitUntilElementFound() {
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(PathConstant.DURATION));
+		driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
 	}
 
 	/**
@@ -97,7 +100,7 @@ public class WebDriverLibrary {
 	 * 
 	 */
 	public void waitUntilElementFound(WebElement element) {
-		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(PathConstant.DURATION));
+		WebDriverWait wait = new WebDriverWait(driver, 20);
 		wait.until(ExpectedConditions.visibilityOf(element));
 	}
 

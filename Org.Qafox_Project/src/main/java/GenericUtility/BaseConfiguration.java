@@ -4,7 +4,8 @@ import org.openqa.selenium.WebDriver;
 
 
 
-import org.openqa.selenium.devtools.idealized.Javascript;
+
+
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
