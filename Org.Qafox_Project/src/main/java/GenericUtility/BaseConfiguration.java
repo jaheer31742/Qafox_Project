@@ -62,7 +62,7 @@ public class BaseConfiguration {
 		initObjects();
 
 		// Test Log
-		String browser = "edge";
+		String browser = "chrome";
 		String url = "https://tutorialsninja.com/demo/";
 		// Precondition 1:launch the browser
 		webdriverobj.launchBrowser(browser);
