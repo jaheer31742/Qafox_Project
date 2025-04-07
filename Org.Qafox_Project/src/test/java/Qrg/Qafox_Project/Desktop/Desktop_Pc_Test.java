@@ -38,7 +38,7 @@ public class Desktop_Pc_Test extends BaseConfiguration {
 		test.log(Status.PASS, "Step2.2:Perform Click Action on Desktop_PC ");
 
 		javaUtilityobj.pause(2000);
-		Reporter.log("Desktops_Mac_Product Added", true);
+		Reporter.log("Desktops_PC_Product Added", true);
 	}
 
 }
